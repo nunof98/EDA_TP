@@ -1,4 +1,6 @@
 # EDA_TP
+### **Estrutura Avançada de Dados – Advanced Data Structure**
+
 Problem of horizontal displacement of an object at a constant speed.
 The program should determine the distance covered by the object.
 
